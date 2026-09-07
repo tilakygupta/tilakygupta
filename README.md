@@ -177,15 +177,13 @@ Cloud Technologies       ███░░░░░░░ 30%
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tilakygupta&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tilakygupta&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilakygupta&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tilakygupta&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilakygupta&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=tilakygupta&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
