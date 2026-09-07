@@ -190,9 +190,7 @@ Cloud Technologies       ███░░░░░░░ 30%
 
 # 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tilakygupta&theme=tokyo-night" />
-</p>
+[![Tilak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tilakygupta&theme=tokyo-night)](https://github.com/tilakygupta)
 
 ---
 
