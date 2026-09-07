@@ -196,9 +196,7 @@ Cloud Technologies       ███░░░░░░░ 30%
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tilakygupta&theme=tokyonight&margin-w=15&margin-h=15" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=tilakygupta&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
