@@ -187,17 +187,6 @@ Cloud Technologies       ███░░░░░░░ 30%
 
 ---
 
-# 📈 Contribution Graph
-
-[![Tilak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tilakygupta&theme=tokyo-night)](https://github.com/tilakygupta)
-
----
-
-# 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tilakygupta&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 # 🏅 Coding Profiles
 
