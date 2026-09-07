@@ -117,29 +117,44 @@ I enjoy transforming ideas into real-world applications and learning new technol
 
 # 🚀 Featured Projects
 
-### 🍽️ Food Donation Platform
+### 🤖 AI Travel Planner Agent
+An AI-powered travel planning assistant that generates personalized itineraries, budget estimates, hotel recommendations, and restaurant suggestions using IBM watsonx.ai foundation models.
 
-A full-stack web application connecting food donors with NGOs to reduce food wastage and improve food accessibility.
+**Tech Stack:** Python, Flask, IBM watsonx.ai, LangFlow, IBM Cloud
 
-**Tech Stack:** React.js, Node.js, Express.js, MySQL
+🔗 https://github.com/tilakygupta/travel-planner-agent
 
-### 💼 Placement Preparation Portal
+---
 
-A platform designed to help students prepare for placements through curated resources and company-specific preparation material.
+### 🌐 Community-Based Web Platform
+A secure full-stack community platform featuring JWT authentication, dynamic content management, responsive UI, and RESTful APIs for seamless user interaction.
 
-**Tech Stack:** React.js, JavaScript, Bootstrap
+**Tech Stack:** React.js, Node.js, Express.js, MySQL, JWT
 
-### 📊 Power BI Analytics Dashboard
+---
 
-Interactive dashboards for business intelligence, data visualization, and performance tracking.
+### 📊 Migration Pressure Index Dashboard
+An interactive Power BI dashboard that visualizes global migration pressure indicators using dynamic filtering, DAX measures, and analytical insights.
 
-**Tech Stack:** Power BI, SQL
+**Tech Stack:** Power BI, DAX, Data Analytics
 
-### 🔐 Authentication & User Management System
+🔗 https://github.com/tilakygupta/migration-pressure-index-powerbi
 
-Secure authentication and authorization system using JWT-based access control.
+---
 
-**Tech Stack:** Node.js, Express.js, JWT, MySQL
+### 🧮 BODMAS Reactor
+An interactive calculator built with React.js that evaluates mathematical expressions in real time while correctly handling operator precedence and complex calculations.
+
+**Tech Stack:** React.js
+
+🔗 https://github.com/tilakygupta/bodmas-reactor
+
+---
+
+### 🎯 AI Placement Preparation Platform
+An AI-powered placement preparation portal designed to help students practice aptitude, coding, HR interviews, and company-specific questions with personalized feedback.
+
+**Tech Stack:** React.js, Node.js, Express.js, PostgreSQL, AI APIs
 
 ---
 
